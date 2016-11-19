@@ -5,7 +5,7 @@ This single SQL query uses recursive common table expressions to generate a maze
 
 Uses a combination of recursive backtracking combined with a random spanning tree algorithm
 
- 
+Online Demo: http://rextester.com/KOEJ62247
 
 # Example outputs
 ## Default settings
